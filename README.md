@@ -76,6 +76,17 @@ Criar uma ferramenta transparente que mostre todos os candidatos ao Congresso br
 - [ ] Resumo das principais propostas do dia
 - [ ] Status de presença dos parlamentares nas sessões
 
+### Fase 5 - Propostas em Espera
+
+- [ ] Dashboard de propostas aguardando votação há muito tempo
+- [ ] Filtros por tempo de espera (30, 60, 90, 180, 365 dias)
+- [ ] Categorização por tipo de proposta e tema
+- [ ] Análise de propostas "engavetadas" ou com baixa prioridade
+- [ ] Alertas para propostas que ultrapassam prazos legais
+- [ ] Comparação de tempo médio de tramitação por tema
+- [ ] Gráficos de tendência de tempo de espera ao longo do tempo
+- [ ] Sistema de priorização baseado em impacto social e urgência
+
 ## 🚀 Como Contribuir
 
 1. Fork o projeto
