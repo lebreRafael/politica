@@ -66,6 +66,16 @@ Criar uma ferramenta transparente que mostre todos os candidatos ao Congresso br
 - [ ] Sistema de alertas personalizados
 - [ ] API pública para desenvolvedores
 
+### Fase 4 - Dashboard do Dia Atual
+
+- [ ] Dashboard mostrando propostas em discussão/votação no dia atual
+- [ ] Atualizações periódicas (a cada 15-30 minutos) das votações
+- [ ] Notificações por email para votações importantes
+- [ ] Agenda do dia com horários das sessões
+- [ ] Integração com links para transmissões oficiais das sessões
+- [ ] Resumo das principais propostas do dia
+- [ ] Status de presença dos parlamentares nas sessões
+
 ## 🚀 Como Contribuir
 
 1. Fork o projeto

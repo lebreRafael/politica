@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Home, Users, Search } from "lucide-react";
+import { Home, Users, Search, BarChart3 } from "lucide-react";
 
 export default function Header() {
   return (
@@ -32,6 +32,13 @@ export default function Header() {
             >
               <Users className="w-4 h-4" />
               <span>Deputados</span>
+            </Link>
+            <Link
+              href="/dashboard"
+              className="flex items-center space-x-1 text-gray-600 hover:text-gray-900 transition-colors"
+            >
+              <BarChart3 className="w-4 h-4" />
+              <span>Dashboard</span>
             </Link>
           </nav>
         </div>
